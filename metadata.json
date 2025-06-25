@@ -1,0 +1,6 @@
+{
+  "name": "Dynamic Pricing AI Agent",
+  "description": "An intelligent web application that analyzes market data and leverages AI to provide optimal pricing recommendations for hotels and flights.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
